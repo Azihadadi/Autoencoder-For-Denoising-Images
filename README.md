@@ -1,6 +1,6 @@
 # Autoencoder For Denoising Images
 
-This repository contains code to load and preprocess the MNIST dataset for training an autoencoder. The project includes the following key steps:
+This repository contains code to build an autoencoder model. The project includes the following key steps:
 
 ## Features
 
